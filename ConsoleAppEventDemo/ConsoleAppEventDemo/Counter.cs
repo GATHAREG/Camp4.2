@@ -10,12 +10,15 @@ namespace ConsoleAppEventDemo
     public delegate void TemperatureDelegate(float temperature);
     public class Counter
     {
+        //defining event
         event TemperatureDelegate TemperatureEvent;
         static void Main(string[] args)
         {
             Counter counter = new Counter();
             Console.WriteLine("Enter the temperature");
             float temperature = float.Parse(Console.ReadLine());
+            
+            //attaching event
             counter.TemperatureEvent += counter.CheckTemp;
             if (temperature < 0 || temperature > 100)
             {

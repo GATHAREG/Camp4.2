@@ -1,0 +1,14 @@
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.exe
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.deps.json
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.runtimeconfig.json
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.dll
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.pdb
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.AssemblyInfoInputs.cache
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.AssemblyInfo.cs
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.csproj.CoreCompileInputs.cache
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.dll
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\refint\ConsoleAppEventDemo.dll
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.pdb
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.genruntimeconfig.cache
+C:\ConsoleAppDelegateDemo\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ref\ConsoleAppEventDemo.dll

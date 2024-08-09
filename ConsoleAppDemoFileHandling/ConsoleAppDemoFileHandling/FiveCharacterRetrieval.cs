@@ -17,6 +17,7 @@ namespace ConsoleAppDemoFileHandling
             try
             {
                 string filePath = "demo.txt";
+                //opening file in read mode
                 FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.Read);
                 if (File.Exists(filePath))
                 {

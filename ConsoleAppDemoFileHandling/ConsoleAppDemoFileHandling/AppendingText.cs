@@ -14,6 +14,7 @@ namespace ConsoleAppDemoFileHandling
 
             try
             {
+                //first opening in append to write
                 string filePath = "demo.txt";
                 FileStream fs = new FileStream(filePath, FileMode.Append, FileAccess.Write, FileShare.Read);
                 if(File.Exists(filePath))
@@ -26,11 +27,10 @@ namespace ConsoleAppDemoFileHandling
                     writer.Close();
                     try
                     {
+                        //the contents are displayed in console
                        FileStream fStream = new FileStream(filePath, FileMode.Open, FileAccess.Read);
                         StreamReader sReader = new StreamReader(fStream);
                       
-                      
-
 
                         string data = File.ReadAllText(filePath);
 

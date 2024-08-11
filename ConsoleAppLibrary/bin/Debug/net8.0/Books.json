@@ -1,0 +1,22 @@
+{
+  "b0": {
+    "ISBN": "b0",
+    "Title": "arachar",
+    "Name": null,
+    "Author": "K r Meera",
+    "Price": 900.0,
+    "Description": "Novel",
+    "PublishedDate": "2020-08-13T00:00:00",
+    "IsAvailable": true
+  },
+  "b1": {
+    "ISBN": "b1",
+    "Title": "good moring",
+    "Name": null,
+    "Author": "robert",
+    "Price": 780.0,
+    "Description": "Thriller",
+    "PublishedDate": "2023-09-06T00:00:00",
+    "IsAvailable": true
+  }
+}

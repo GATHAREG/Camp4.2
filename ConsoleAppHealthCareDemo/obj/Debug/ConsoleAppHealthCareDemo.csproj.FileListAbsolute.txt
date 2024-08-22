@@ -1,0 +1,2 @@
+C:\ConsoleAppCRUD\ConsoleAppHealthCareDemo\obj\Debug\ConsoleAppHealthCareDemo.csproj.AssemblyReference.cache
+C:\ConsoleAppCRUD\ConsoleAppHealthCareDemo\obj\Debug\ConsoleAppHealthCareDemo.csproj.CoreCompileInputs.cache

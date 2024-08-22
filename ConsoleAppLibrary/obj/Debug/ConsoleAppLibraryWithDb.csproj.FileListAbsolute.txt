@@ -1,0 +1,10 @@
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\obj\Debug\ConsoleAppLibraryWithDb.csproj.AssemblyReference.cache
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\obj\Debug\ConsoleAppLibraryWithDb.csproj.CoreCompileInputs.cache
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\bin\Debug\ConsoleAppLibraryWithDb.exe.config
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\bin\Debug\ConsoleAppLibraryWithDb.exe
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\bin\Debug\ConsoleAppLibraryWithDb.pdb
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\bin\Debug\SQLSERVERCONNECTIONLIBRARY.dll
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\bin\Debug\SQLSERVERCONNECTIONLIBRARY.pdb
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\obj\Debug\ConsoleA.08D97E26.Up2Date
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\obj\Debug\ConsoleAppLibraryWithDb.exe
+E:\dotnet\DATABASE_DATABASE\ConsoleAppLibraryWithDb\obj\Debug\ConsoleAppLibraryWithDb.pdb
